@@ -1,0 +1,6 @@
+{
+  "name": "Legend of the Lost Kingdom - 3D Action RPG",
+  "description": "An epic 3D fantasy action RPG where warrior Kael battles through 50 perilous levels across 5 biomes to defeat demon king Malakar and rescue Princess Aria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
